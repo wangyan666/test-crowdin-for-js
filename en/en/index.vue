@@ -1,10 +1,10 @@
 <template>
     <div>{{ '签署文件' }}</div>
-    <p>下一份文件</p>
+    <p>Next document</p>
 </template>
 <script setup lang="ts">
-const v = '模版字符串'
-    let a = `${v}印章管理`
+const v = 'template string'
+    let a = `${v}'s seal management`
 </script>
 <style>
 </style>
