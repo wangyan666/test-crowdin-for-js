@@ -1,2 +1,2 @@
-const a = '菜单';
-const b = '用印统计';
+const a = 'Menu';
+const b = 'Print Statistics';
