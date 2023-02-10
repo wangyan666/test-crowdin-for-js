@@ -14,9 +14,9 @@ const createPixelMap = ctx => {
         }
     }
     let s = {
-        a: '技术文档',
-        b: '联系我们',
-        c: '查看演示demo'
+        a: 'Technical documentation',
+        b: 'Contact us',
+        c: 'View demo'
     };
     return pxMap;
 };
